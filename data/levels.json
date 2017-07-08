@@ -1,0 +1,36 @@
+[{
+	"code": "ABCD",
+	"image": "data/level1.png",
+	"density": "data/level1_density.png",
+	"music": "data/level1_music.mp3",
+	"gems": [{
+		"x": 355,
+		"y": 125,
+		"idx": 2
+	}, {
+		"x": 415,
+		"y": 125,
+		"idx": 3
+	}]
+}, {
+	"code": "EFGH",
+	"image": "data/level2.png",
+	"density": "data/level2_density.png",
+	"gems": [{
+		"x": 111,
+		"y": 55,
+		"idx": 1
+	}, {
+		"x": 261,
+		"y": 229,
+		"idx": 2
+	}, {
+		"x": 500,
+		"y": 168,
+		"idx": 3
+	}, {
+		"x": 648,
+		"y": 82,
+		"idx": 2
+	}]
+}]
