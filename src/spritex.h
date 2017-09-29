@@ -1,4 +1,3 @@
-// (C) 2011 PowerBIT Studio
 /*! 
 	\class Diamondek::Spritex
     \brief Spritex class

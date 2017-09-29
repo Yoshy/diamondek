@@ -1,4 +1,3 @@
-// (C) 2011 PowerBIT Studio
 /*! 
 	\class Diamondek::Singleton
     \brief Singleton class
@@ -26,6 +25,6 @@ private:
 
 template <typename T>  T* Singleton<T>::_singleton = NULL;
 
-}; // namespace Vox2D
+}; // namespace Diamondek
 
 #endif // _SINGLETON_H_

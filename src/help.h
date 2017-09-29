@@ -1,4 +1,3 @@
-// (C) 2011 PowerBIT Studio
 /*! 
 	\class Diamondek::Help
     \brief Help screen class
